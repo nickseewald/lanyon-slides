@@ -1,4 +1,7 @@
-## Conferences
+---
+layout: post
+title: Conferences
+---
 
 ### Conference Presentations
 
